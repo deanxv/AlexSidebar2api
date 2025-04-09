@@ -3,6 +3,8 @@
 </p>
 <div align="center">
 
+# **[DISABLE]**
+
 # AlexSideBar2api
 
 _觉得有点意思的话 别忘了点个 ⭐_
