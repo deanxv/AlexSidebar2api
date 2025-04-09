@@ -3,8 +3,6 @@
 </p>
 <div align="center">
 
-# **[DISABLE]**
-
 # AlexSideBar2api
 
 _觉得有点意思的话 别忘了点个 ⭐_
@@ -146,6 +144,8 @@ Render 可以直接部署 docker 镜像,不需要 fork 仓库：[Render](https:/
 7. `ROUTE_PREFIX=hf`  [可选]路由前缀,默认为空,添加该变量后的接口示例:`/hf/v1/chat/completions`
 
 ### cookie获取方式
+
+> 2025-04-09  [AlexSideBar账户查询系统](https://asb.aytsao.cn/)已被官方gank,通过该系统注册的账户不会有免费额度,如果你自己有Mac设备可以在[alexcodes](https://www.alexcodes.app/)官网下载app成功注册后在[AlexSideBar账户查询系统](https://asb.aytsao.cn/)获取你的Refresh Token。
 
 > **序列号与账号绑定**,每次查询都需要**序列号**,请妥善保存！！！
 
