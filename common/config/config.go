@@ -19,7 +19,7 @@ var ProxyUrl = env.String("PROXY_URL", "")
 var ChineseChatEnabled = env.Bool("CHINESE_CHAT_ENABLED", true)
 var ApiSecret = os.Getenv("API_SECRET")
 var ApiSecrets = strings.Split(os.Getenv("API_SECRET"), ",")
-var UserAgent = env.String("USER_AGENT", "AlexSideBar/190 CFNetwork/1568.300.101 Darwin/24.2.0")
+var UserAgent = env.String("USER_AGENT", "AlexSideBar/191 CFNetwork/1568.300.101 Darwin/24.2.0")
 
 var RateLimitCookieLockDuration = env.Int("RATE_LIMIT_COOKIE_LOCK_DURATION", 10*60)
 

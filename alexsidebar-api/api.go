@@ -29,8 +29,8 @@ func MakeStreamChatRequest(c *gin.Context, client cycletls.CycleTLS, jsonData []
 		Headers: map[string]string{
 			"User-Agent":       config.UserAgent,
 			"Content-Type":     "application/json",
-			"app-version":      "2.5.6",
-			"app-build-number": "190",
+			"app-version":      "2.5.7",
+			"app-build-number": "191",
 			"auth":             tokenInfo.AccessToken,
 			"accept-language":  "zh-CN,zh-Hans;q=0.9",
 			"local-id":         common.GenerateSerialNumber(10),
